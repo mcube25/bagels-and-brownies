@@ -1,5 +1,5 @@
 /*
-* 	Owl Carousel Owl Demo Theme 
+* 	Owl Carousel Owl Demo Theme
 *	v1.24
 */
 
@@ -67,7 +67,7 @@
 	margin: 5px 7px;
 	filter: Alpha(Opacity=50);
 	opacity: 0.5;
-	background: #d66047;
+	background: #008037;
 }
 
 .owl-theme .owl-controls .owl-page.active span,
@@ -97,7 +97,7 @@
 	background: url(AjaxLoader.gif) no-repeat center center
 }
 
-/* 
+/*
  * 	Core Owl Carousel CSS File
  *	v1.24
  */

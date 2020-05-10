@@ -7,7 +7,7 @@
 body {
     margin: 0;
     background: #fff;
-    font-family: 'Mukta Mahee', sans-serif;
+    font-family: 'Playfair display', sans-serif;
 }
 
 body a {
@@ -116,7 +116,7 @@ body a:focus {
 #m_nav_container {
     width: 100%;
     height: 80px;
-    background-color: #e96147;
+    background-color: #008037;
     position: fixed;
     display: none;
     top: 0px;
@@ -181,7 +181,7 @@ body a:focus {
 .m_nav_ham {
     width: 30px;
     height: 3px;
-    background: #e96147;
+    background: #008037;
     margin: 5px auto;
 }
 
@@ -355,7 +355,7 @@ span.simply-word {
 a.bvg1_play_icon1 {
     border: none;
     outline: none;
-    background: #e96147;
+    background: #008037;
     padding: 0.5em 1.5em;
     color: #fff;
     text-decoration: none;
@@ -439,7 +439,7 @@ a.login.reg {
 }
 
 .elite_bsub_login ul li i {
-    color: #f4792c;
+    color: #008037;
     font-size: 1em;
     padding-right: 7px;
 }
@@ -488,7 +488,11 @@ a.login.reg {
     width: 100%;
     height: 100%;
 }
-
+.p1 {
+  color: #008037;
+  font-style: normal;
+  font-size: 14px;
+}
 .ih-item.circle {
     position: relative;
     width: 230px;
@@ -510,7 +514,7 @@ a.login.reg {
     content: '';
     width: 100%;
     height: 100%;
-    border-radius: 50%;
+    border-radius:5%
     box-shadow: inset 0 0 0 6px rgba(255, 255, 255, 0.6), 0 1px 2px rgba(0, 0, 0, 0.3);
     -webkit-transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
@@ -620,7 +624,7 @@ h3.bvs-title {
 h3.bvs-title span {
     font-weight: bold;
     font-size: 2em;
-    color: #d66047;
+    color: #008037;
 }
 
 div#about {
@@ -631,11 +635,11 @@ div#about {
 }
 
 .bvs-row.alert.elite-about-right img {
-    border: 7px solid rgba(233, 97, 71, 0.63);
+    border: 7px solid #008037;
 }
 
 .bvs-row img {
-    border: 6px solid #e96147;
+    border: 6px solid #008037;
 }
 
 .elite-about-bvg1left,
@@ -763,7 +767,7 @@ a.close {
 
 .bevg-gallery-info {
     padding: 1em;
-    background: #ffffff;
+    background: #008037;
     -webkit-box-shadow: -1px 1px 2px #d0d0d0;
     -moz-box-shadow: -1px 1px 2px #d0d0d0;
     box-shadow: -1px 1px 2px #d0d0d0;
@@ -824,13 +828,13 @@ a.close {
 }
 
 .stats-bg {
-    background: url(../images/stat.jpg) no-repeat center;
+    background: url(../bagelsimg/IMG_0274.JPG) no-repeat center;
     min-height: 409px;
     background-size: cover;
 }
 
 .stats-info.bevg {
-    background: #e96147;
+    background: #008037;
     padding: 4em 3em 2.9em;
 }
 
@@ -1082,7 +1086,7 @@ a.fa.fa-twitter.icon.icon-border.twitter {
 }
 
 .test-review i {
-    color: #e96147;
+    color: #008037;
     font-size: 2em;
     margin: 0 0.5em;
 }
@@ -1099,18 +1103,18 @@ a.fa.fa-twitter.icon.icon-border.twitter {
 
 .img-bevg img {
     margin: 0 auto;
-    border: 5px solid #d66047;
+    border: 5px solid #008037;
 }
 
 .test-tooltip1:after {
     content: '';
     position: absolute;
     left: -31px;
-    border-color: #e96147;
+    border-color: #008037;
     top: 40%;
     border-left: 9px solid transparent;
     border-right: 10px solid transparent;
-    border-bottom: 18px solid rgb(233, 97, 71);
+    border-bottom: 18px solid #008037;
     transform: rotate(90deg);
     -webkit-transform: rotate(-92deg);
     -moz-transform: rotate(90deg);
@@ -1137,7 +1141,7 @@ a.fa.fa-twitter.icon.icon-border.twitter {
 
 .services-grid span {
     font-size: 1.5em;
-    color: #e96147;
+    color: #008037;
     display: inline-block;
     z-index: 1;
     padding: 1em 1.5em;
@@ -1173,7 +1177,7 @@ a.fa.fa-twitter.icon.icon-border.twitter {
 }
 
 .services-left {
-    border: 3px solid #e96147;
+    border: 3px solid #008037;
     padding: 2em;
     border-radius: 10px;
     width: 32%;
@@ -1182,7 +1186,7 @@ a.fa.fa-twitter.icon.icon-border.twitter {
 }
 
 .services-left h5 {
-    color: #e96147;
+    color: #008037;
     text-transform: uppercase;
     font-size: 1em;
     margin: 0.2em 0 0.4em;
@@ -1234,11 +1238,11 @@ p.data {
 }
 
 .menu-bg {
-    background: url(../images/g5.jpg) no-repeat center;
+    background: url(../bagelsimg/arizona_s.jpg) no-repeat center;
     background-size: cover;
     min-height: 271px;
     border-radius: 25px;
-    border: 10px solid #e96147;
+    border: 10px solid #008037;
     min-height: 271px;
 }
 
@@ -1336,7 +1340,7 @@ h3.title-contact {
 }
 
 .contact-right-bvrs input[type="submit"] {
-    background: #000;
+    background: #008037;
     color: #FFF;
     padding: .9em 1.8em;
     margin-top: 1.3em;
@@ -1349,6 +1353,20 @@ h3.title-contact {
     transition: 0.5s all;
     -webkit-transition: 0.5s all;
     -moz-transition: 0.5s all;
+}
+
+.brace {
+   width: 500px;
+    background-color: ;
+    Height: 320px;
+
+}
+
+.imgi {
+  height: 100%;
+   width: 100%;
+    object-fit: container;
+
 }
 
 .contact-right-bvrs input[type="submit"]:hover {
@@ -1484,7 +1502,7 @@ ul.footer-nav li a.active {
 .bvgs_gris-footer1 h5 {
     text-transform: uppercase;
     font-size: 1.1em;
-    color: #e96147;
+    color: #008037;
     font-weight: 600;
     margin: 0 0 1.5em;
 }
@@ -1556,7 +1574,7 @@ button.btn.btn-primary {
 
 button.btn.btn-primary.btn-sm,
 button.btn.btn-default.btn-sm {
-    background-color: #e96147;
+    background-color: #008037;
     padding: 7px 18px 7px;
     font-weight: 600;
     border: none;
@@ -1772,7 +1790,7 @@ h2.h3-bvrs {
 }
 
 .panel-title a {
-    background: #e96147;
+    background: #008037;
     color: #fff;
     text-decoration: none;
     display: block;
@@ -1860,7 +1878,16 @@ a.pa_italic:focus {
     letter-spacing: 2px;
     word-spacing: 1px;
 }
+.header9 {
+    color: #008037;
+    font-size: 24px;
+    padding: 10px;
+}
 
+.bigicon {
+    font-size: 35px;
+    color: #008037;
+}
 li.elite-time-title {
     background: #7fbb00;
     padding: 0.2em 1em;
@@ -1880,7 +1907,7 @@ li.elite-time-title {
 /* slide */
 
 .slide {
-    background: url(../images/b2.jpg) no-repeat center;
+    background: url(../bagelsimg/klo.jpg) no-repeat center;
     background-size: cover;
     min-height: 350px;
     padding: 9em;
@@ -1966,7 +1993,7 @@ figure.bvrs-service-hover h4 {
     color: #fff;
     text-transform: uppercase;
     padding: 5% 0;
-    background: #d66047;
+    background: #008037;
     -webkit-transition: -webkit-transform 0.35s;
     transition: transform 0.35s;
     -webkit-transform: translate3d(0, -20px, 0);
@@ -2007,7 +2034,7 @@ figure.bvrs-service-hover:hover p {
 /* inner-bg*/
 
 .inner-bg {
-    background: url(../images/b3.jpg) no-repeat center;
+    background: url(../bagelsimg/shop.jpg) no-repeat center;
     background-size: cover;
     min-height: 300px;
 }
@@ -2015,7 +2042,7 @@ figure.bvrs-service-hover:hover p {
 /* inner-bg */
 
 .contact-icon-elite span {
-    color: #d66047;
+    color: #008037;
     font-size: 1.5em;
 }
 
@@ -2988,7 +3015,7 @@ p {
 
 input {
   border: 0.3em solid #bbc3c6;
-  padding: 0.5em 0.3em; 
+  padding: 0.5em 0.3em;
   font-size: 1.4em;
   color: #8a8a8a;
   text-align: center;
@@ -3002,10 +3029,10 @@ a {
 .container1 {
   max-width: 75em;
   width: 95%;
-  margin: 40px auto;  
+  margin: 40px auto;
   overflow: hidden;
   position: relative;
-  
+
   border-radius: 0.6em;
   background: #ecf0f1;
   box-shadow: 0 0.5em 0 rgba(138, 148, 152, 0.2);
@@ -3058,7 +3085,7 @@ a {
   background: #f34d35;
   text-transform: uppercase;
   text-align: right;
-  font-size: 1.2em;  
+  font-size: 1.2em;
 }
 
 .tf p {
@@ -3116,7 +3143,7 @@ a {
 }
 
 .col-qty > * {
-  vertical-align: middle; 
+  vertical-align: middle;
 }
 
 .col-qty > input {
@@ -3131,7 +3158,7 @@ a.qty {
   font-size: 2.5em;
   font-weight: bold;
   text-align: center;
-  background: #43ace3;  
+  background: #43ace3;
   color: #fff;
 }
 
@@ -3162,13 +3189,13 @@ a.qty:hover {
   transition: all 0.3s ease-in-out;
 }
 
-  
+
   .col-pro {
     width: 35%;
   }
-  
+
   .col-qty {
     width: 22%;
   }
-  
+
 }
