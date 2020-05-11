@@ -7,7 +7,13 @@
 body {
     margin: 0;
     background: #fff;
-    font-family: 'Playfair display', sans-serif;
+
+font-family: playfair-display, serif;
+
+font-weight: 700;
+
+font-style: normal;
+
 }
 
 body a {
