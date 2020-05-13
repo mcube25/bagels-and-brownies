@@ -26,6 +26,31 @@ body a {
     outline: none;
 }
 
+#a {
+border: 1px solid black;
+margin-bottom: 0px;
+}
+
+#b {
+border: 1px solid black;
+text-align: center;
+height: 400px;
+margin-bottom: 0px;
+}
+
+#d {
+border: 1px solid black;
+margin-bottom: 0px;
+align-items: center;
+}
+
+#c {
+border: 1px solid black;
+text-align: center;
+height: 400px;
+margin-bottom: 0px;
+}
+
 h1,
 h2,
 h3,
@@ -96,7 +121,8 @@ body a:focus {
     color: #fff;
     position: relative;
     text-decoration: none;
-    font-family: 'Righteous', cursive;
+    font-family: playfair-display, serif;
+    font-style: italic;
     text-transform: capitalize;
 }
 
@@ -628,11 +654,28 @@ h3.bvs-title {
 }
 
 h3.bvs-title span {
-    font-weight: bold;
-    font-size: 2em;
+    font-weight: normal;
+    font-size: 1.3em;
     color: #008037;
+    font-family: playfair-display, serif;
+    font-style: italic;
+}
+.videol {
+  margin-left: inherit;
+  margin-top: 10px;
+  position: relative;
 }
 
+#pa {
+  color: #008037;
+  font-family: playfair-display, serif;
+  font-style: italic;
+  margin-left: 43px;
+  font-weight: normal;
+  font-size: 1.3em;
+}
+
+}
 div#about {
     padding-top: 12em;
     position: relative;
@@ -2146,7 +2189,7 @@ figure.bvrs-service-hover:hover p {
         right: 2.5%;
     }
     h3.bvs-title span {
-        font-size: 1.8em;
+        font-size: 1.6em;
     }
     .slide {
         min-height: 286px;
