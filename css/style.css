@@ -661,7 +661,7 @@ h3.bvs-title span {
     font-style: italic;
 }
 .videol {
-  margin-left: inherit;
+  margin-left: 0;
   margin-top: 10px;
   position: relative;
 }
