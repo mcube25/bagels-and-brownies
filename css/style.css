@@ -69,6 +69,16 @@ margin-bottom: 0px;
   cursor: pointer;
 }
 
+.bunker{
+  font-family:  playfair-display, serif;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 600;
+  color: #008037 !important;
+  border: 0;
+  border: 1px solid transparent;
+}
+
 .boxed-btn3:hover {
   background: transparent;
   color: #F2C64D !important;
