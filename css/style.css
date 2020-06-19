@@ -38,11 +38,12 @@ body a {
 
 #a {
 border: 1px solid black;
-margin-bottom: 0px;
+margin-bottom: 30px;
 }
 
 .room_heading_inner{
   padding: 28px 44px;
+  padding-bottom: 70px;
 }
 
 .boxed-btn3 {
