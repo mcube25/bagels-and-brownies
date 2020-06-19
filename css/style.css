@@ -39,6 +39,8 @@ body a {
 #a {
 border: 1px solid black;
 margin-bottom: 30px;
+height: 575px;
+
 }
 
 .room_heading_inner{
@@ -89,7 +91,7 @@ margin-bottom: 30px;
 #b {
 border: 1px solid black;
 text-align: center;
-height: 505px;
+height: 575px;
 margin-bottom: 0px;
 }
 
@@ -97,12 +99,13 @@ margin-bottom: 0px;
 border: 1px solid black;
 margin-bottom: 0px;
 align-items: center;
+height: 575px;
 }
 
 #c {
 border: 1px solid black;
 text-align: center;
-height: 505px;
+height: 575px;
 margin-bottom: 0px;
 }
 
