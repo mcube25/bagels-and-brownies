@@ -106,6 +106,35 @@ animation: m 5s infinite;
    font-style: normal;
    font-weight: 180;
 }
+#e {
+border: 0.03px solid white;
+margin-left: inherit;
+margin-top: 5px;
+margin-bottom: 30px;
+height: 575px;
+animation: m 5s infinite;
+background-color:  #DCDCDC;
+}
+#f {
+border: 0.03px solid white;
+text-align: center;
+height: 575px;
+margin-bottom: 0px;
+}
+#g {
+border: 0.03px solid white;
+text-align: center;
+height: 575px;
+margin-bottom: 0px;
+background-image: url("bagelsimg/brownie_b.jpg");
+}
+#h {
+border: 0.03px solid white;
+margin-bottom: 0px;
+align-items: center;
+height: 575px;
+background-color: #DCDCDC;
+}
 
 #b {
 border: 0.03px solid white;
@@ -129,6 +158,10 @@ text-align: center;
 height: 575px;
 margin-bottom: 0px;
 box-shadow: 5px 10px 5px 10px #F5F5F5;
+}
+.responsive {
+  width: 100%;
+  height: auto;
 }
 
 
@@ -202,6 +235,11 @@ body a:focus {
 }
 #t {
   color: #8a6d36;
+      font-size: 36.2px;
+      text-align: center;
+      padding-top: 3px;
+      padding-bottom: 7px;
+
 }
 #sa {
   font: 35px;
