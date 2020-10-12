@@ -45,9 +45,13 @@ height: 575px;
 animation: m 5s infinite;
 }
 
+.price{
+  background-color: green
+}
+
 .room_heading_inner{
-  padding: 28px 44px;
-  padding-bottom: 70px;
+  padding: 12px 22px;
+  padding-bottom: 30px;
 }
 
 .boxed-btn3 {
@@ -107,33 +111,32 @@ animation: m 5s infinite;
    font-weight: 180;
 }
 #e {
-border: 0.03px solid white;
-margin-left: inherit;
+border: 0.03px solid black;
 margin-top: 5px;
 margin-bottom: 30px;
 height: 575px;
 animation: m 5s infinite;
-background-color:  #DCDCDC;
+border: 1px 1px 1px 1px black
 }
 #f {
-border: 0.03px solid white;
+border: 0.03px solid black;
 text-align: center;
 height: 575px;
 margin-bottom: 0px;
 }
 #g {
-border: 0.03px solid white;
+border: 0.03px solid black;
 text-align: center;
 height: 575px;
 margin-bottom: 0px;
 background-image: url("bagelsimg/brownie_b.jpg");
 }
 #h {
-border: 0.03px solid white;
+border: 0.03px solid black;
 margin-bottom: 0px;
 align-items: center;
 height: 575px;
-background-color: #DCDCDC;
+
 }
 
 #b {
@@ -551,6 +554,10 @@ a.bvg1_play_icon1:hover {
 .b_banner_bootm {
     padding: 0;
     background-color:  #fcf8e3;;
+  	background: url(../images/design.jpg) no-repeat center;
+	  background-size: cover;
+    height: 45px;
+
 }
 
 .elite_share_bsub {
@@ -3180,6 +3187,11 @@ figure.bvrs-service-hover:hover p {
   line-height: 0.5em;
   display: inline-block;
 }
+.hey{
+    font-size: 1.0em;
+    color: black;
+    line-height: 1.8em;
+  }
 
 
 
@@ -3190,8 +3202,8 @@ h6 {
 }
 
 p {
-  font-size: 1.5em;
-  color: #8d8d8d;
+  font-size: 1.2em;
+  color: black;
 }
 
 input {
