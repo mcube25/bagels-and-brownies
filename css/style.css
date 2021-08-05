@@ -36,14 +36,6 @@ body a {
     outline: none;
 }
 
-#a {
-border: 0.03px solid white;
-margin-top: 5px;
-margin-bottom: 30px;
-height: 575px;
- box-shadow: 5px 10px 5px 10px #F5F5F5;
-animation: m 5s infinite;
-}
 
 .price{
   background-color: green
@@ -125,42 +117,48 @@ height: 575px;
 margin-bottom: 0px;
 }
 #g {
-border: 0.03px solid black;
+border: 0.01px solid lightgrey;
 text-align: center;
-height: 575px;
+height: 545px;
 margin-bottom: 0px;
 background-image: url("bagelsimg/brownie_b.jpg");
 }
 #h {
-border: 0.03px solid black;
+border:  0.01px solid lightgrey;
 margin-bottom: 0px;
 align-items: center;
-height: 575px;
+height: 545px;
 
 }
-
+#a {
+  border: 0.01px solid lightgrey;
+  text-align: center;
+  height: 545px;
+  margin-bottom: 0px;
+  background-image: url("bagelsimg/brownie_b.jpg");
+}
 #b {
-border: 0.03px solid white;
-text-align: center;
-height: 575px;
-margin-bottom: 0px;
-box-shadow: 5px 10px 5px 10px #F5F5F5;
+  border: 0.01px solid lightgrey;
+  text-align: center;
+  height: 545px;
+  margin-bottom: 0px;
+  background-image: url("bagelsimg/brownie_b.jpg");
 }
 
 #d {
-border: 0.03px solid white;
-margin-bottom: 0px;
-align-items: center;
-height: 575px;
-box-shadow: 5px 10px 5px 10px #F5F5F5;
+  border: 0.01px solid lightgrey;
+  text-align: center;
+  height: 545px;
+  margin-bottom: 0px;
+  background-image: url("bagelsimg/brownie_b.jpg");
 }
 
 #c {
-border: 0.03px solid white;
-text-align: center;
-height: 575px;
-margin-bottom: 0px;
-box-shadow: 5px 10px 5px 10px #F5F5F5;
+  border: 0.01px solid lightgrey;
+  text-align: center;
+  height: 545px;
+  margin-bottom: 0px;
+  background-image: url("bagelsimg/brownie_b.jpg");
 }
 .responsive {
   width: 100%;
@@ -554,10 +552,15 @@ a.bvg1_play_icon1:hover {
 .b_banner_bootm {
     padding: 0;
     background-color:  #fcf8e3;;
-  	background: url(../image/design.jpg) no-repeat center;
+  	background: url(../images/design2.jpg) no-repeat center;
 	  background-size: contain;
     height: 45px;
 
+}
+#titl{
+  font-size: 50px;
+  color: green;
+  font-weight: bold;
 }
 
 .elite_share_bsub {
